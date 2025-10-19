@@ -1,0 +1,6 @@
+id,cost,profit_pct
+Action-A,100000,0.15
+Action-B,150000,0.2
+Action-C,80000,0.12
+Action-D,120000,0.18
+Action-E,90000,0.1

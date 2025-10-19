@@ -1,0 +1,14 @@
+Algorithme,Force Brute
+Temps d'exécution,0.2519s
+Coût total,492955
+Profit total,131552
+Nombre d'actions,6
+Budget restant,7045
+
+Actions sélectionnées,Coût,Profit,Rentabilité (%)
+Auto-ERUF-CO,53116,14341,27.00%
+Tech-ZFWI-INC,103886,24933,24.00%
+Auto-WZDV-LTDA,64155,12189,19.00%
+Finance-CLQU-LTDA,76955,26165,34.00%
+Health-AXBJ-INC,76601,16086,21.00%
+Health-RXEQ-GROUP,118242,37837,32.00%
