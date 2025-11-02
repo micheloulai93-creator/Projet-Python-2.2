@@ -1,0 +1,18 @@
+Algorithme,Programmation Dynamique
+Temps d'exécution,0.0166s
+Coût total,498000
+Profit total,99080
+Nombre d'actions,10
+Budget restant,2000
+
+Actions sélectionnées,Coût,Profit,Rentabilité (%)
+Action-4,70000,14000,20.00%
+Action-5,60000,10200,17.00%
+Action-6,80000,20000,25.00%
+Action-8,26000,2860,11.00%
+Action-10,34000,9180,27.00%
+Action-11,42000,7140,17.00%
+Action-13,38000,8740,23.00%
+Action-18,10000,1400,14.00%
+Action-19,24000,5040,21.00%
+Action-20,114000,20520,18.00%

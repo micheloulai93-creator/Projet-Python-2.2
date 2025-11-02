@@ -1,0 +1,20 @@
+Algorithme,Algorithme Glouton
+Temps d'exécution,0.0005s
+Coût total,498000
+Profit total,97480
+Nombre d'actions,12
+Budget restant,2000
+
+Actions sélectionnées,Coût,Profit,Rentabilité (%)
+Action-10,34000,9180,27.00%
+Action-6,80000,20000,25.00%
+Action-13,38000,8740,23.00%
+Action-19,24000,5040,21.00%
+Action-4,70000,14000,20.00%
+Action-20,114000,20520,18.00%
+Action-5,60000,10200,17.00%
+Action-11,42000,7140,17.00%
+Action-18,10000,1400,14.00%
+Action-17,4000,480,12.00%
+Action-16,8000,640,8.00%
+Action-14,14000,140,1.00%
